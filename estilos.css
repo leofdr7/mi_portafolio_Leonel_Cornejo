@@ -1,0 +1,29 @@
+h1 {
+    color: #efd3d3e3;
+    background-color: #9b2727;
+    text-align: center;
+    border-radius: 10px;
+    font-family: "Bitcount Single", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+a:hover {
+    color: #9b2727;
+    background-color: #efd3d3e3;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+section {
+    border: 1px solid #b25523;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f0a9a9e3;
+    color: #9b2727;
+}
