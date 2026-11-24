@@ -1,12 +1,15 @@
 h1 {
-    color: #efd3d3e3;
+    color: #ffcc27;
     background-color: #9b2727;
     text-align: center;
     border-radius: 10px;
     font-family: "Bitcount Single", system-ui;
     font-optical-sizing: auto;
     font-weight: 400;
+    font-size: 65px;
+    text-shadow: 2px 2px 4px #000000;
     font-style: normal;
+    text-transform: uppercase;
 }
 
 a:hover {
@@ -19,11 +22,74 @@ a {
     text-decoration: none;
 }
 
-section {
+section#sobre-mi{
+    border: 1px solid #ca997e;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f0a9a9e3;
+    color: #9b2727;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #969a9c;
+    border-width: 3px;
+}
+p{
+    font-family: "Bitcount Single", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+h3{
+    font-family: "Bitcount Single", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+section#mis-metas{
     border: 1px solid #b25523;
     border-radius: 10px;
     padding: 10px;
     margin: 10px;
     background-color: #f0a9a9e3;
     color: #9b2727;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #969a9c;
+    border-width: 3px;
+}
+h2{
+    color: #478db0;
+    background-color: #e7d676e3;
+    border-radius: 10px;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #93a0a7;
+    border-width: 3px;
+    padding: 10px;
+    margin: 10px;
+    font-family: "Bitcount Single", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+}
+section#habilidades{
+    border: 1px solid #b25523;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f0a9a9e3;
+    color: #9b2727;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #969a9c;
+    border-width: 3px;
+}
+ul{
+    font-family: "Bitcount Single", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
